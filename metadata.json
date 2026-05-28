@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Downloader",
+  "description": "Download TikTok videos without watermark, extract MP3 audio, and download sounds directly with a modern user interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
